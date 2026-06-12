@@ -83,7 +83,6 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan project ini di komputer lok
     ```bash
     composer install
     ```
-
 3.  **Install Dependensi Frontend (NPM)**
     ```bash
     npm install
